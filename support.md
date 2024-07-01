@@ -16,7 +16,7 @@ Please use the "Issues" tab to report any bugs you encounter. Provide as much de
 We love to hear how we can make StreamRadios better. To request a new feature, please use the "Issues" tab and label your request as a 'feature'.
 
 ### Direct Support
-If you have specific support questions or need help using the app, please email us at support@streamradios.com.
+If you have specific support questions or need help using the app, please email us at support@streamradiostations.com.
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -25,6 +25,6 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-StreamRadios Team - [Email Us](mailto:support@streamradios.com)
+StreamRadios Team - [Email Us](mailto:support@streamradiostations.com)
 
 Thank you for using StreamRadios!
