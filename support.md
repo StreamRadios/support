@@ -21,9 +21,6 @@ If you have specific support questions or need help using the app, please email 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 StreamRadios Team - [Email Us](mailto:support@streamradiostations.com)
 
